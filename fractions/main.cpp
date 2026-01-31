@@ -57,7 +57,7 @@ public:
 		//std::cout << this->number << " " << this->numerator << "\\" << this->denominator;
 	}
 
-	void summa(fractions temp) {
+	fractions summa(fractions temp) {
 		fractions result;
 
 		if (temp.get_denominator() == this->denominator)
@@ -77,19 +77,21 @@ public:
 
 		if (result.get_numerator() >= result.get_denominator()) { rouding(result); }
 
-		result.prtint_fractions();
+		//result.prtint_fractions();
+
+		return result;
 	}
 };
 
 
 int main() {
-	fractions one(2, 2, 4), two(1, 2, 4);
+	fractions one(2, 2, 4), two(1, 2, 4), result(one.summa(two));
 
 	one.prtint_fractions();
 	std::cout << " + ";
 	two.prtint_fractions();
 	std::cout << " = ";
-	one.summa(two);
+	result.prtint_fractions();
 
 
 
