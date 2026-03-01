@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\c\u002B\u002B\\fractions\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\fractions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C357F791-5B35-4A27-A8D6-50D594C83AB8}|fractions\\fractions.vcxproj|C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\c\u002B\u002B\\fractions\\fractions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C357F791-5B35-4A27-A8D6-50D594C83AB8}|fractions\\fractions.vcxproj|C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\fractions\\fractions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C357F791-5B35-4A27-A8D6-50D594C83AB8}|fractions\\fractions.vcxproj|solutionrelative:fractions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\c\u002B\u002B\\fractions\\fractions\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\fractions\\fractions\\main.cpp",
               "RelativeDocumentMoniker": "fractions\\main.cpp",
-              "ToolTip": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\c\u002B\u002B\\fractions\\fractions\\main.cpp",
+              "ToolTip": "C:\\Users\\\u041C\u043E\u043B\u043E\u0434\u043E\u0439 \u0447\u0435\u043B\u043E\u0432\u0435\u043A\\Documents\\fractions\\fractions\\main.cpp",
               "RelativeToolTip": "fractions\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAP8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-30T05:23:35.137Z",
               "EditorCaption": ""
